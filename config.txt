@@ -1,6 +1,4 @@
-Visa_Debit
 Tema_Melnik
-Cur_Renzy
 Escobar_Rodriguezx
 Maxim_Stierlitz
 Clay_Cooper
@@ -9,3 +7,4 @@ Mamat_Fuhrerov
 Yume_Miyamoto
 Ricardo_Melton
 Playboy_Hatez
+Makar_Donatello
